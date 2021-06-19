@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.878bacd6.chunk.css",
-    "main.js": "/static/js/main.63297fcb.chunk.js",
+    "main.css": "/static/css/main.22b2751e.chunk.css",
+    "main.js": "/static/js/main.c0a148d5.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
-    "static/js/2.bb3c87dd.chunk.js": "/static/js/2.bb3c87dd.chunk.js",
+    "static/js/2.5435a19a.chunk.js": "/static/js/2.5435a19a.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.cca8e22ee5363c777cd1d9a5d3613aab.js": "/precache-manifest.cca8e22ee5363c777cd1d9a5d3613aab.js",
+    "precache-manifest.9cf1c03f8f6a66dc7e6cbbf5aefc2afc.js": "/precache-manifest.9cf1c03f8f6a66dc7e6cbbf5aefc2afc.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.bb3c87dd.chunk.js.LICENSE.txt": "/static/js/2.bb3c87dd.chunk.js.LICENSE.txt"
+    "static/js/2.5435a19a.chunk.js.LICENSE.txt": "/static/js/2.5435a19a.chunk.js.LICENSE.txt",
+    "static/media/coach-marks-overlay.css": "/static/media/coach-marks.8ddcac52.png"
   },
   "entrypoints": [
     "static/js/runtime-main.09b85ec0.js",
-    "static/js/2.bb3c87dd.chunk.js",
-    "static/css/main.878bacd6.chunk.css",
-    "static/js/main.63297fcb.chunk.js"
+    "static/js/2.5435a19a.chunk.js",
+    "static/css/main.22b2751e.chunk.css",
+    "static/js/main.c0a148d5.chunk.js"
   ]
 }
